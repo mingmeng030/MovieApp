@@ -1,0 +1,16 @@
+.home, .about{
+    padding: 2px 8px 5px 8px;
+    background-color: rgb(184, 182, 179, 0.5);
+    border-radius: 5px;
+    text-decoration: none;
+    color: inherit;
+    font-weight: 700;
+}
+
+.home{
+    margin-left : 100px;
+}
+
+.about{
+    margin-left : 30px;
+}
